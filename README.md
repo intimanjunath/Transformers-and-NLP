@@ -1,6 +1,5 @@
-# 🧠 Transformers and NLP – Assignment (Deadline: May 4, 11:59 PM)
+End-to-end NLP task using KerasNLP and TensorFlow — includes inference with pretrained BERT, fine-tuning on AG News, and training a custom Transformer from scratch on IMDb with walkthrough videos and debug traces.
 
-This repository contains the complete solution to the NLP assignment, implementing:
 
 1. Inference with a pretrained classifier using KerasNLP
 2. Fine-tuning a BERT backbone on AG News
@@ -9,8 +8,6 @@ This repository contains the complete solution to the NLP assignment, implementi
 Each notebook includes a full pipeline, debug trace, and recorded video walkthrough as required.
 
 ---
-
-## 📘 Assignment Breakdown
 
 | Part | Notebook | Task | Description |
 |------|----------|------|-------------|
