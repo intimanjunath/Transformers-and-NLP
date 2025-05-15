@@ -29,7 +29,7 @@ Each notebook includes a full pipeline, debug trace, and recorded video walkthro
 
 ## 🎥 Walkthrough Videos
 
-- 📽️ [You Tube Link](YOUR_VIDEO_LINK_1)
+- 📽️ [You Tube Link](https://youtu.be/QXBOZs8n7II)
 
 ---
 
